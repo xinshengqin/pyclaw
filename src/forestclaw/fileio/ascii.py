@@ -9,6 +9,7 @@ from __future__ import print_function
 
 import logging
 import numpy as np
+# import clawpack.forestclaw as forestclaw
 from clawpack import forestclaw
 
 from .. import Dimension, Patch
